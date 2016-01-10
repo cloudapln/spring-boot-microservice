@@ -1,2 +1,2 @@
 # spring-boot-template
-Template for Spring Boot
+ Template for Spring Boot
